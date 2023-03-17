@@ -45,9 +45,10 @@ img {
 
 .logo {
   width: 170px;
-  padding-left: 80px;
+  padding-left: 90px;
   padding-top: 40px;
   padding-bottom: 30px;
+  
 }
 
 form {
@@ -120,7 +121,7 @@ h5 {
 
 .facebook a {
   text-decoration: none;
-  color: #385185;
+    color: #4cb4f8;
   font-size: 16px;
 }
 
